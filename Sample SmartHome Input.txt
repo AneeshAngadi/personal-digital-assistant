@@ -1,0 +1,14 @@
+User: It's very hot here.
+User: Make it 74 degrees in the bathroom at 7 AM.
+User: Please turn on the TV in the kitchen.
+User: Turn off all appliances when I leave.
+User: Start brewing coffee at 6 AM each morning.
+User: Turn on lights in the bathroom every morning at 6:30.
+User: Dim all the lights at 11 PM.
+User: It's dark in here.
+User: Romantic lights in the kitchen.
+User: Lock all windows and doors when no one is home.
+
+
+
+
